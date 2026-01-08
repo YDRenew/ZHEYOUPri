@@ -53,7 +53,7 @@ layout: none
     </ul>
 
     <h2>6. Privacy Policy Changes</h2>
-    <p>We may update this privacy policy occasionally. The updated version will be indicated by the revised “Effective Date” at the top of this page.</p>
+    <p>We may update this privacy policy occasionally. The updated version will be indicated by the revised "Effective Date" at the top of this page.</p>
 
     <h2>7. Contact Us</h2>
     <p>If you have any questions or concerns regarding this Privacy Policy, please contact us at:</p>
