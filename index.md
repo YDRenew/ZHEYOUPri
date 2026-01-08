@@ -1,3 +1,6 @@
+---
+layout: none
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +11,8 @@
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 0 20px; }
         h1 { color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px; }
         h2 { color: #3498db; margin-top: 30px; }
-        a { color: #3498db; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
         ul { padding-left: 20px; }
         strong { color: #2c3e50; }
     </style>
@@ -49,7 +53,7 @@
     </ul>
 
     <h2>6. Privacy Policy Changes</h2>
-    <p>We may update this privacy policy occasionally. The updated version will be indicated by the revised "Effective Date" at the top of this page.</p>
+    <p>We may update this privacy policy occasionally. The updated version will be indicated by the revised “Effective Date” at the top of this page.</p>
 
     <h2>7. Contact Us</h2>
     <p>If you have any questions or concerns regarding this Privacy Policy, please contact us at:</p>
