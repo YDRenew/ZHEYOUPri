@@ -1,4 +1,20 @@
-<h1>Privacy Policy</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Daily Signal</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { color: #3498db; margin-top: 30px; }
+        a { color: #3498db; }
+        ul { padding-left: 20px; }
+        strong { color: #2c3e50; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
     <p>Welcome to Daily Signal (the “App”). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what information may be collected, how it is used, and what choices you have regarding such information.</p>
 
     <h2>1. Information Collection and Use</h2>
@@ -37,3 +53,5 @@
     <p>If you have any questions regarding this Privacy Policy, please contact us:</p>
     <p>Support Website: <a href="https://ydrenew.github.io/ZHEYOUPri/" target="_blank">https://ydrenew.github.io/ZHEYOUPri/</a></p>
     <p>Email: ydrenewable@126.com</p>
+</body>
+</html>
