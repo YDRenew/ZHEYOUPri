@@ -1,41 +1,44 @@
-“街游快爆”隐私政策
+<h1>Privacy Policy</h1>
 
-“街游快爆”尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，“街游快爆”会按照本隐私权政策的规定使用和披露您的个人信息。但“街游快爆”将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，“街游快爆”不会将这些信息对外披露或向第三方提供。“街游快爆”会不时更新本隐私权政策。您在同意“街游快爆”服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于“街游快爆”服务使用协议不可分割的一部分。
+<p>Welcome to Daily Signal (the “App”). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what information may be collected, how it is used, and what choices you have regarding such information.</p>
 
-1.适用范围
-a) 在您注册“街游快爆”帐号时，您根据“街游快爆”要求提供的个人注册信息；
-b) 在您使用“街游快爆”网络服务，或访问“街游快爆”平台网页时，“街游快爆”自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；
-c) “街游快爆”通过合法途径从商业伙伴处取得的用户个人数据。
-您了解并同意，以下信息不适用本隐私权政策：
-a) 您在使用“街游快爆”平台提供的搜索服务时输入的关键字信息；
-b) “街游快爆”收集到的您在“街游快爆”发布的有关信息数据，包括但不限于参与活动、成交信息及评价详情；
-c) 违反法律规定或违反“街游快爆”规则行为及“街游快爆”已对您采取的措施。
+<h2>1. Information Collection and Use</h2>
 
-2.信息使用
-a) “街游快爆”不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和“街游快爆”（含“街游快爆”关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。
-b) “街游快爆”亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何“街游快爆”平台用户如从事上述活动，一经发现，“街游快爆”有权立即终止与该用户的服务协议。
-c) 为服务用户的目的，“街游快爆”可能通过使用您的个人信息，向您提供您感兴趣的信息，包括但不限于向您发出产品和服务信息，或者与“街游快爆”合作伙伴共享信息以便他们向您发送有关其产品和服务的信息（后者需要您的事先同意）。
-我们可能收集设备型号信息，用于优化应用性能或提供技术支持。此信息不会用于用户追踪。
+<p>This App does not directly collect your personal identifiable information. However, data may be processed locally on your device or by third-party services for the following purposes:</p>
 
-3.信息披露
-在如下情况下，“街游快爆”将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：
-a) 经您事先同意，向第三方披露；
-b) 为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
-c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
-d) 如您出现违反中国有关法律、法规或者“街游快爆”服务协议或相关规则的情况，需要向第三方披露；
-e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；
-f) 在“街游快爆”平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的，“街游快爆”有权决定向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。
-g) 其它“街游快爆”根据法律、法规或者网站政策认为合适的披露。
+<ul>
+  <li>Advertising: Displaying interstitial ads using Google AdMob SDK.</li>
+  <li>Advertising-related data: Google may collect device-related information (such as device model, OS version, language settings, IP address) to serve relevant ads and analyze ad performance.</li>
+  <li>Performance and diagnostics: Crash logs or performance data may be collected for debugging and improving the App.</li>
+</ul>
 
-4	信息存储和交换
-“街游快爆”收集的有关您的信息和资料将保存在“街游快爆”及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或“街游快爆”收集信息和资料所在地的境外并在境外被访问、存储和展示。
+<p>We do not collect or transmit contact information, precise location, photos, SMS, or other sensitive personal information.</p>
 
-5	Cookie的使用
-a) 在您未拒绝接受cookies的情况下，“街游快爆”会在您的计算机上设定或取用cookies
-，以便您能登录或使用依赖于cookies的“街游快爆”平台服务或功能。“街游快爆”使用cookies可为您提供更加周到的个性化服务，包括推广服务。 b)您有权选择接受或拒绝接受cookies。您可以通过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies，则您可能无法登录或使用依赖于cookies的“街游快爆”网络服务或功能。
-c) 通过“街游快爆”所设cookies所取得的有关信息，将适用本政策。
-6.信息安全
-a) “街游快爆”帐号均有安全保护功能，请妥善保管您的用户名及密码信息。“街游快爆”将通过对用户密码进行加密等安全措施确保您的信息不丢失，不被滥用和变造。尽管有前述安全措施，但同时也请您注意在信息网络上不存在“完善的安全措施”。
-b) 在使用“街游快爆”网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是“街游快爆”用户名及密码发生泄露，请您立即联络“街游快爆”客服，以便“街游快爆”采取相应措施。
-7.联系方式
-如果您有更好的建议和意见，请通过此邮箱联系我们：ydrenewable1016@163.com，非常感谢！
+<h2>2. Third-Party Services</h2>
+
+<p>This App integrates Google AdMob advertising services. Google AdMob may use third-party SDKs to gather anonymous information for ad serving. For details, please review Google’s official privacy policy:</p>
+<p><a href="https://policies.google.com/privacy" target="_blank">https://policies.google.com/privacy</a></p>
+
+<p>Google may use cookies, anonymous identifiers, or similar technologies to serve personalized ads or measure ad performance. You may visit Google’s ad settings page to opt out of personalized ads.</p>
+
+<h2>3. Legal Basis</h2>
+
+<p>For users in the European Economic Area (EEA) and UK, SDKs may request user consent for processing data in compliance with GDPR requirements.</p>
+
+<h2>4. Data Security</h2>
+
+<p>We use reasonable technical measures to protect your data. However, no method of transmission over the internet is 100% secure.</p>
+
+<h2>5. Children Under 13</h2>
+
+<p>This App is not intended for children under 13. If you believe a child has used this App, please contact us to request deletion of related information.</p>
+
+<h2>6. Privacy Policy Changes</h2>
+
+<p>This privacy policy may be updated occasionally. Please check this page for the latest version.</p>
+
+<h2>7. Contact Us</h2>
+
+<p>If you have any questions regarding this Privacy Policy, please contact us:</p>
+<p>Support Website: https://ydrenew.github.io/ZHEYOUPri/</p>
+<p>Email: Your contact email (e.g., support@example.com)</p>
