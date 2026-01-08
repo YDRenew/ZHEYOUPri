@@ -1,84 +1,105 @@
 # Privacy Policy
 
-**Effective Date:** 2026/01/07
+**Effective Date:** January 7, 2026
 
-Welcome to **Daily Signal** (the “App”).  
-We respect your privacy and are committed to protecting your information.  
-This Privacy Policy explains what information may be processed, how it is used, and what choices you have.
-
----
-
-## 1. Information Collection and Use
-
-The App itself **does not collect, store, or transmit any personal information that directly identifies you**, such as your name, email address, or phone number.  
-No user account is required.
-
-To support the App's free operation, it integrates **Google AdMob** for advertising.  
-AdMob, as a third-party service, **may automatically collect and process certain non-personal information** for ad purposes, which may include:
-
-- **Advertising Identifiers** (such as Apple's IDFA or Google's Advertising ID)
-- General device information (device model, operating system version, language)
-- Approximate location (derived from IP address, not precise GPS)
-- Interaction data with ads (e.g., clicks, impressions)
-
-**This data may be used for tracking purposes across different apps and websites over time to deliver personalized advertising.**  
-We do not have access to the specifics of the data collected by AdMob.
+Thank you for using **Daily Signal** (“the App”).  
+Your privacy is important to us. This Privacy Policy explains how information is handled when you use the App.
 
 ---
 
-## 2. Third-Party Services & Tracking
+## 1. Information We Do Not Collect
 
-This App integrates **Google AdMob** advertising services.
+Daily Signal **does not collect, store, or require any personal information** that can directly identify you, including but not limited to:
 
-- Google Privacy Policy:  
-  https://policies.google.com/privacy
+- Name  
+- Email address  
+- Phone number  
+- Account credentials  
 
-- Google Ad Settings:  
-  https://adssettings.google.com
-
-**App Tracking Transparency (ATT):**  
-On iOS / iPadOS devices, the App will request your permission through the system’s App Tracking Transparency framework before accessing the device’s advertising identifier.  
-You can change this permission at any time in your device **Settings**.
+The App does **not require user registration or login**.
 
 ---
 
-## 3. Data Security
+## 2. Advertising and Third-Party Services
 
-We rely on industry-standard practices and the security measures of our third-party partners to protect data.  
-However, no method of electronic transmission or storage is 100% secure.
+To support the free availability of the App, **third-party advertising services (Google AdMob)** are used.
+
+While we do not collect personal data ourselves, **Google AdMob may automatically collect certain information** as part of serving ads, in accordance with its own privacy policy. This information may include:
+
+- Advertising identifiers (such as Apple’s Identifier for Advertisers – IDFA)
+- Basic device information (device type, operating system, language)
+- Approximate location (derived from IP address)
+- Ad interaction data (such as ad impressions and clicks)
+
+This information is processed **by Google**, not by the App developer.
 
 ---
 
-## 4. Children’s Privacy
+## 3. App Tracking Transparency (ATT)
 
-The App is not directed to children under the age of 13.  
-We do not knowingly collect personal information from children.
+On iOS and iPadOS devices, the App complies with Apple’s **App Tracking Transparency (ATT)** framework.
 
-If you are a parent or guardian and believe your child has provided information, please contact us.
-
----
-
-## 5. Your Controls and Choices
-
-You may control or limit advertising-related data by:
-
-- Resetting your device’s advertising identifier
-- Opting out of personalized ads through device or Google settings
-- On iOS / iPadOS:  
+- The App will request your permission **before accessing the advertising identifier** for tracking purposes.
+- If you choose not to allow tracking, your decision will be respected.
+- You can change your tracking preferences at any time in:
+  
   **Settings → Privacy & Security → Tracking**
 
 ---
 
-## 6. Privacy Policy Changes
+## 4. How Third-Party Data Is Used
 
-We may update this Privacy Policy from time to time.  
+Any data collected by Google AdMob is used for purposes such as:
+
+- Displaying ads
+- Measuring ad performance
+- Delivering personalized or non-personalized ads, depending on your settings
+
+We do **not** access, store, or control this data.
+
+For more information, please review Google’s Privacy Policy:
+
+- https://policies.google.com/privacy  
+- Ad Settings: https://adssettings.google.com
+
+---
+
+## 5. Data Security
+
+We do not store personal data on our servers.  
+Third-party services used by the App apply industry-standard security practices. However, no electronic transmission method is completely secure.
+
+---
+
+## 6. Children’s Privacy
+
+The App is **not intended for children under the age of 13**.
+
+We do not knowingly collect personal information from children.  
+If you believe that a child has provided personal information through the App, please contact us so we can address the issue.
+
+---
+
+## 7. Your Privacy Choices
+
+You may control your privacy preferences through your device settings, including:
+
+- Limiting or resetting advertising identifiers
+- Managing ad personalization options
+- Controlling tracking permissions on iOS / iPadOS
+
+---
+
+## 8. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time.  
 Any changes will be reflected by updating the **Effective Date** at the top of this page.
 
 ---
 
-## 7. Contact Us
+## 9. Contact Information
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us:
+If you have any questions about this Privacy Policy, please contact us:
 
 - **Email:** ydrenewable@126.com  
 - **Support Website:**  
