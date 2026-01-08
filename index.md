@@ -41,4 +41,50 @@
 
 <p>If you have any questions regarding this Privacy Policy, please contact us:</p>
 <p>Support Website: https://ydrenew.github.io/ZHEYOUPri/</p>
-<p>Email: Your contact email (e.g., support@example.com)</p>
+<p>Email: ydrenewable@126.com</p>
+
+
+
+<h1>Technical Support</h1>
+
+<p>Welcome to the Daily Signal support page.</p>
+
+<p>If you encounter any issues while using the app, have questions, or would like to provide feedback, please use the contact information below.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<ul>
+  <li>
+    <strong>Why does the app display ads?</strong><br/>
+    Daily Signal is supported by interstitial advertisements powered by Google AdMob.
+    Ads are shown only after clear user actions (such as refreshing content), and not continuously.
+  </li>
+
+  <li>
+    <strong>Does the app collect my personal data?</strong><br/>
+    No. Daily Signal does not collect personally identifiable information.
+    Advertising data is handled by Google AdMob in accordance with their privacy policy.
+  </li>
+
+  <li>
+    <strong>Why don’t I always see an ad?</strong><br/>
+    Ads may not be available at all times due to network conditions, inventory availability, or frequency limits.
+  </li>
+
+  <li>
+    <strong>The app didn’t load content properly. What should I do?</strong><br/>
+    Please make sure you have a stable internet connection and try restarting the app.
+  </li>
+</ul>
+
+<h2>Contact</h2>
+
+<p>If the problem persists or you would like to report a bug or suggest an improvement, please contact us:</p>
+
+<ul>
+  <li>Email: <strong>ydrenewable@126.com</strong></li>
+  
+</ul>
+
+<p>We appreciate your feedback and will continue improving Daily Signal.</p>
+
